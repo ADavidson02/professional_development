@@ -27,7 +27,7 @@ Yes, I need to work on my stess level as this impacts all other aspects of my li
 
 Define your needs, problem, and insights:
 Based on what you wrote about above and your group conversation, what problems have you identified that you'd like to design solutions for? What do you already about what you want for your career? What do you still need to find out? Who or what do you want to grow into by the end of the Turing program?
-I know that I want to have time for my family and be available to them and not always working. I want to grow into a more balanced person who can set work aside at the end of the day instead of stewing in my work problems.
+I know that I want to have time for my family and be available to them and not always be working. I want to grow into a more balanced person who can set work aside at the end of the day instead of stewing in my work problems.
 
 Ideate -- challenge assumptions
 When you discussed software developers with your small group on Monday, what assumptions came up about what software developers actually do? What steps could you take to challenge those assumptions and find more facts to answer the question of what developers do? In addition to what a typical software developer life could look like, what do you want yours to include?
@@ -38,7 +38,8 @@ I believe that these two can go hand in hand.
 
 Prototype -- start creating solutions
 What is the basic threshold that your new career must meet after Turing? What would you hope WILL NOT happen in your future after Turing? What is your absolute, no-holds-barred, ideal dream for your future after Turing?
-After Turing my career must be in desired front-end coding. I hope to not get a tech job and lose the skills that I have been learning. Ideally I would get a job offer somewhere outside of Colorado with a smaller company that I would be able to grow with and be an important member of the team instead of just another employee. 
+After Turing my career must be in desired front-end coding. I hope to not enter an idustry out of the tech industry and lose the skills that I have been learning. Ideally I would get a job offer somewhere outside of Colorado with a smaller company that I would be able to grow with and be an important member of the team instead of just another employee. 
 
 Test –- solutions
-Based on this week of reflections, write out your initial vision statement for your career:
+Based on this week of reflections, write out your initial vision statement for your career: 
+My vision statement at this time is to have a good work/life balance with a company that makes community connects and is working to better society not just trying to make money at the expense of society. 
