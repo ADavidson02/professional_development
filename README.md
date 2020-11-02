@@ -3,10 +3,12 @@
 ## My Career Journal
 Hello and welcome to my career journal. Inside you will find my journey though Turing.
 
-## Table of contents:
-### Career Journal
-* Mod 0
-* Mod 1
+# Table of contents:
+## Career Journal
+### Mod 0
++ Parin Results
+
+### Mod 1
 + Week 1
 + Week 2
 + Week 3
