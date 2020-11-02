@@ -2,6 +2,8 @@
 
 ## My Career Journal
 Hello and welcome to my career journal. Inside you will find my journey though Turing.
+* Gist for PD:
+https://gist.github.com/ADavidson02/779f058777c1909ad03a657406f5d424
 
 ### Mod 1 
 
