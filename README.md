@@ -102,7 +102,7 @@ Week 3: [https://gist.github.com/ADavidson02/f3f25ba8b4a08226a57f345fecdc91c3]
 
 If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here: 
 
-Week 4: [Link here to your gist]
+Week 4: [https://gist.github.com/ADavidson02/bf42adcf2ee3bfa270cf3d560df2a017]
 - [ ] (completed)
 - [ ] (partially complete)
 - [ ] (not started)
