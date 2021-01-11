@@ -73,7 +73,7 @@ Week 4: [https://github.com/ADavidson02/professional_development/blob/master/car
 If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here: 
 
 Week 5: [https://github.com/ADavidson02/professional_development/blob/master/career_journal/mod_2/week_5]
-- [ ] (completed)
+- [X] (completed)
 - [ ] (partially complete)
 - [ ] (not started)
 
@@ -109,7 +109,7 @@ Week 4: [https://gist.github.com/ADavidson02/bf42adcf2ee3bfa270cf3d560df2a017]
 
 If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here: 
 
-Week 5: [Link here to your gist]
+Week 5: [https://gist.github.com/ADavidson02/d6d4b9fff8e2593b6649b47e2610fddc]
 - [ ] (completed)
 - [ ] (partially complete)
 - [ ] (not started)
